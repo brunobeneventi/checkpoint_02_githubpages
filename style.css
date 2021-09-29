@@ -71,7 +71,7 @@ legend {
   font-size: 30px;
   margin-left: 10px;
   background-color: grey;
-  border: 10px solid black;
+  border: 5px solid black;
   border-radius: 5px;
   background-image: url(https://emc.acidadeon.com/dbimagens/por_do_1024x576_23072020130829.webp);
 }
@@ -82,7 +82,7 @@ div {
 }
 
 fieldset {
-  border: 10px solid black;
+  border: 5px solid black;
   background-color: grey;
   border-radius: 5px;
   background-image: url(https://emc.acidadeon.com/dbimagens/por_do_1024x576_23072020130829.webp);
@@ -117,7 +117,7 @@ fieldset {
 button {
   height: 50px;
   width: 120px;
-  border: 10px solid black;
+  border: 5px solid black;
   border-radius: 5px;
   font-weight: bold;
   font-size: 20px;
