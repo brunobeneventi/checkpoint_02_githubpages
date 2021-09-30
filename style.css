@@ -92,7 +92,7 @@ fieldset {
 #email {
   width: 100%;
   height: 30px;
-  padding-left: 15px;
+  padding-left: 12px;
   font-weight: bold;
   border-radius: 10px;
 }
@@ -101,7 +101,7 @@ fieldset {
 #date,
 #interesse {
   height: 30px;
-  padding-left: 15px;
+  padding-left: 12px;
   font-weight: bold;
   border-radius: 10px;
 }
